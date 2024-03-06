@@ -3,7 +3,7 @@ import WidgetLists from "./WidgetLists";
 import  Input from './Input';
 
 const lists = ['Видео', 'Картинки', 'Новости','Карты', 'Маркет']
-const Search_Bar = () => {
+const SearchBar = () => {
   return (
       <div>
           <h2 className="">Яндекс</h2>
@@ -15,4 +15,4 @@ const Search_Bar = () => {
 
   )
 }
-export default Search_Bar;
+export default SearchBar;

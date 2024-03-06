@@ -21,7 +21,7 @@ const data = [
         title: 'Наступил первый день весны',
     }
 ]
-const News_Navigator = () => {
+const NewsNavigator = () => {
 
     return (
         <nav className="">
@@ -32,4 +32,4 @@ const News_Navigator = () => {
     )
 }
 
-export default News_Navigator;
+export default NewsNavigator;

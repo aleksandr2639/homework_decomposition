@@ -11,7 +11,7 @@ const temperature = {
         morning: "",
         evening: "",
 }
-const News_Navigator = () => {
+const FooterBar = () => {
 
     return (
         <nav className="">
@@ -34,4 +34,4 @@ const News_Navigator = () => {
         </nav>
     )
 }
-export default News_Navigator;
+export default FooterBar;
